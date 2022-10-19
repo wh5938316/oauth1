@@ -1,5 +1,5 @@
 {
-    "name": "risan/oauth1",
+    "name": "printy6/oauth1",
     "type": "library",
     "description": "OAuth 1.0 client library for PHP",
     "keywords": [
